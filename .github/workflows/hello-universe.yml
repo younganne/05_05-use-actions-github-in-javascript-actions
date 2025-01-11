@@ -12,3 +12,4 @@ jobs:
       - uses: younganne/05_05-use-actions-github-in-javascript-actions@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: echo 'testing'
