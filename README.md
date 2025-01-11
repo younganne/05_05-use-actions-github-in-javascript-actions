@@ -1,6 +1,6 @@
 # 05_05-use-actions-github-in-javascript-actions
 
-## Resources
+## Resources --
 - [Webhook events and payloads](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads)
 - [Octokit documentation](https://octokit.github.io/rest.js)
 
